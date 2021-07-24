@@ -1,1 +1,3 @@
-worker: python3 -m hope.py
+worker: python3 -m bot.py
+
+
