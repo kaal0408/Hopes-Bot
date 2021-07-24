@@ -30,7 +30,7 @@ async def nxt(event):
         [
           Button.url("Drugs info", url="https://t.me/RxParamarsh/3880"),
           Button.url("PCI ACT", url="https://t.me/RxParamarsh/3881"),
-          Button.url("Questions/Answer", url="https://t.me/RxParamarsh/3882")
+          Button.url("Questions/Answer", url="https://t.me/RxParamarsh/3882"),
           Button.url("Pharm.D", url="https://t.me/RxParamarsh/3989")
         ],
         [
