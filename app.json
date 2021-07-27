@@ -15,7 +15,7 @@
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather, as a string."
     },
-    "APP_ID": {
+    "API_ID": {
       "description": "Get this value from https://my.telegram.org"
     },
     "API_HASH": {
