@@ -1,7 +1,7 @@
 import os
 import time 
 from telethon import TelegramClient 
-from telethon import Buttons, events 
+from telethon import Button, events 
 from config import config 
 
 API_ID = config.API_ID
